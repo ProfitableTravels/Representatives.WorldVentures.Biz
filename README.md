@@ -1,3 +1,8 @@
+<!--
+  Title: Representatives.WorldVentures.Biz
+  Description: WorldVentures Team Support for Representatives.WorldVentures.Biz (sponsor ID 69976878).
+  Author: ProfitableTravels
+-->
 # Profitable Travels
 
 Thanks for being part of the Profitable Travels [WorldVentures Team](https://www.profitabletravels.com).
